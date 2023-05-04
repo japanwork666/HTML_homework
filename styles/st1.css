@@ -1,0 +1,48 @@
+h2.st1 {
+    color: green;
+    text-transform: capitalize;
+}
+
+.st2 {
+    color: pink;
+    font-style: italic;
+    font-family: font2;
+}
+
+.col1 {
+    color: gray;
+}
+
+.col2 {
+    color: brown;
+}
+
+.size1 {
+    font-size: 2em;
+}
+
+.sty1 {
+    font-style: italic;
+}
+
+.under1 {
+    text-decoration: underline;
+}
+
+#col_2 {
+    color: green;
+}
+
+.col_1 {
+    color: pink;
+}
+
+.h1 {
+    color: orange;
+}
+
+p {
+    color: blue;
+    text-decoration: underline;
+    font-size: 2em;
+}

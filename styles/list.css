@@ -1,0 +1,19 @@
+.list1 {
+    list-style-type: circle;
+    border: 4px dotted violet;
+    border-radius: 20px 10px;
+}
+
+.list2 {
+    list-style-type: none;
+    list-style-image: url("../image/icon.png");
+}
+
+.in {
+    list-style-position: inside;
+}
+
+.list3 {
+    border: 5px groove pink;
+    border-radius: 30px 20px 10px 15px;
+}

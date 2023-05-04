@@ -1,0 +1,26 @@
+.font1 {
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+
+.font2 {
+    font-family: 'Pacifico', cursive;
+}
+
+@font-face {
+    font-family: J;
+    src: url();
+}
+
+@font-face {
+    font-family: font1;
+    src: url(fonts/JustOldFashion.ttf);
+}
+
+h1 {
+    font-family: font1;
+}
+
+@font-face {
+    font-family: font2;
+    src: url(fonts/SCRIPTIN.ttf);
+}
